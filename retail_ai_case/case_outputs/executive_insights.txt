@@ -1,0 +1,5 @@
+1. Overall margin rate is 49.6% on total sales of $2.09M.
+2. In product_category, the strongest margin-rate contributor (among top sellers) is 'Shoes' at 55.0% on $289.91K sales, while the weakest is 'Fitness' at 43.0% on $238.59K sales.
+3. In brand, the strongest margin-rate contributor (among top sellers) is 'Vetra' at 58.6% on $221.17K sales, while the weakest is 'Novex' at 45.5% on $262.30K sales.
+4. Year-over-year, sales changed by 3.9% and total margin changed by 4.8%. Margin rate shifted by 45 bps vs prior year.
+5. Anomaly detection flagged extreme margin behavior: the most unusual record shows division=Apparel, category=Shoes, brand=Vetra, region=West with margin rate 67.9% on $1.38K sales.

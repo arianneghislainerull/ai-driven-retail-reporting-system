@@ -1,0 +1,57 @@
+feature,importance
+cost_per_unit,0.121845916
+product_category_Pantry,0.11384962
+selling_price_per_unit,0.07986205
+product_category_Shoes,0.07964333
+product_category_Shirts,0.05100646
+brand_Vetra,0.049058266
+brand_Dexon,0.043362446
+brand_Lumix,0.03603842
+product_category_Safety Gear,0.034823246
+product_division_Gardening,0.033692643
+brand_Zentra,0.03346043
+product_division_Apparel,0.028774127
+product_division_Sports,0.02859039
+brand_Fynix,0.024687724
+product_category_Plants,0.021922976
+product_category_Decor,0.020812608
+product_division_Food,0.018706683
+product_category_Beverages,0.01815878
+product_category_Garden Tools,0.017817445
+brand_Quanta,0.017478934
+brand_Solvo,0.015724164
+product_category_Fitness,0.015341907
+brand_Novex,0.014401786
+product_division_Tools,0.012914143
+product_category_Team Sports,0.012025126
+product_category_Snacks,0.011595164
+brand_Kryta,0.010265539
+brand_Trion,0.010218995
+store_size_27482,0.006225608
+product_category_Power Tools,0.004881407
+region_North,0.001783452
+store_id_23,0.0016881736
+store_id_1,0.0016145771
+store_id_46,0.0012257887
+month,0.0009561754
+store_id_45,0.00095305964
+year,0.00084849383
+region_South,0.00079008826
+store_id_11,0.0006402762
+store_id_40,0.0005457526
+store_id_81,0.0005278063
+store_id_71,0.0004550186
+quarter,0.000296423
+region_East,0.00014206686
+region_West,0.00012611107
+store_size_84350,6.847318e-05
+store_size_49251,4.4155197e-05
+store_id_84,2.451191e-05
+store_size_91812,1.9240759e-05
+store_size_81228,1.6756061e-05
+store_size_89550,1.3498379e-05
+store_size_89860,9.862369e-06
+store_size_24444,8.692844e-06
+store_id_54,8.616384e-06
+store_size_72961,3.4479149e-06
+store_size_16434,3.223139e-06
